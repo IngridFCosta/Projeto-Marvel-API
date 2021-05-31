@@ -1,1 +1,25 @@
 # Projeto-Marvel-API
+## :memo:Sobre o projeto
+Este projeto é uma single page application que extrai dados da API da Marvel e traz uma listagem simples de alguns personagens
+filtrados pela história de quadrinhos da qual fizeram parte.
+
+## :rocket:Começando
+Para executar, basta baixar os arquivos e usá-los no seu navegador de preferência ou acessa-lo no seguinte link: [Projeto Marvel API](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
+## :wrench:Tecnologias utilizadas
+- [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [Bootstrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [MD5 Hash Generator](https://www.md5hashgenerator.com/)
+
+## :woman:Autora
+Ingrid Costa
+- [LinkedIn](https://www.linkedin.com/in/ingrid-costa-a43598117/)
+- [Email](ingridfc16@gmail.com)
+## :star:Referências
+- [Documentação-Bootstrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+- [Marvel Developer API](https://developer.marvel.com/docs)
+- [Canal Domini code](https://www.youtube.com/watch?v=T_FyWCPOLIc)
+
+## :page_with_curl:Licença
