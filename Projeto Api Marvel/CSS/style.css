@@ -1,0 +1,45 @@
+
+body{
+    background-color:rgb(10, 9, 9);   
+}
+#carousel-Controls img{
+    height: 300px;
+}
+.titulo-principal{
+    color: #fff;
+    margin: 15px;
+}
+
+.img-thumbnail {
+    padding: .25rem;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius:30px;
+    transition: 400ms;    
+}
+
+.img-thumbnail:hover{
+    background-color: rgb(250, 48, 48);
+    border: 1px solid #dee2e6;
+
+}
+
+.row{
+    margin: .30rem;
+    padding: .50rem;
+    height: 100%;
+}
+
+.subtitulo-nome-personagem{
+    padding: 10px;
+    color: rgb(236, 15, 15);
+}
+
+.rodape{
+    margin: 0 auto;
+    color: #fff;
+    text-align: center;
+    
+
+}
+
